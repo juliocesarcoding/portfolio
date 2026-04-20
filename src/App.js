@@ -670,7 +670,7 @@ const experience = [
   period: "Sep 2024 — Present",
   company: "Destemido Sistemas",
   location: "Curitiba · Remote",
-  title: "Technology Consultant",
+  title: "Technology Consultant Focused on ERP Integrations",
   bullets: [
    "Architected a multi-tenant SaaS invoicing platform integrating fiscal document APIs (PlugNotas), automating NF-e issuance and reducing manual financial operations by ~70%.",
    "Designed enterprise-grade auth flows — 2FA and token-based systems — for secure multi-tenant access.",
@@ -704,7 +704,7 @@ const experience = [
   period: "Oct 2020 — Sep 2024",
   company: "RS Pneus",
   location: "Curitiba",
-  title: "Full Stack Engineer / Systems Analyst",
+  title: "Systems Analyst → Full Stack Engineer",
   bullets: [
    "Designed high-performance database schemas on SQL Server and Oracle for business-critical operations at scale.",
    "Built and maintained REST and SOAP API integrations ensuring data integrity across internal and external systems.",
@@ -727,7 +727,7 @@ const experience = [
   period: "Mar 2013 — Apr 2018",
   company: "Grupo Poliservice",
   location: "Curitiba",
-  title: "IT Developer",
+  title: "IT Intern → Support Analyst",
   bullets: [
    "Promoted from IT intern to developer — built process automation, business rules engines, and workflow tooling for enterprise operations.",
    "Managed server infrastructure, backup routines, and cross-departmental IT systems for a multi-site enterprise group.",
