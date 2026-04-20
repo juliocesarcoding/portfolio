@@ -1,4 +1,4 @@
-import { useEffect, useRef } from "react";
+import { useEffect } from "react";
 
 const styles = `
   @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Mono:ital,wght@0,300;0,400;1,300&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap');
@@ -781,8 +781,6 @@ const projects = [
 ];
 
 function App() {
- const revealRefs = useRef([]);
-
  useEffect(() => {
   // inject styles
   const styleEl = document.createElement("style");
@@ -869,7 +867,7 @@ function App() {
 
     <div className="p-hero-right">
      <div className="p-hero-card">
-      <div className="p-hero-card-label">// career snapshot</div>
+      <div className="p-hero-card-label"> career snapshot</div>
       {[
        { label: "Years of experience", value: "10+" },
        { label: "Companies served", value: "6+" },
