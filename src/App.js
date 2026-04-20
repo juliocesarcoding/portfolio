@@ -840,7 +840,7 @@ function App() {
     <div className="p-hero-grid" />
 
     <div className="p-hero-left">
-     <div className="p-hero-tag">Available for remote · June 2026</div>
+     <div className="p-hero-tag">Available for remote</div>
      <h1 className="p-hero-name">
       Julio Cesar
       <br />
@@ -1005,7 +1005,7 @@ function App() {
    {/* FOOTER */}
    <footer className="p-footer">
     <span>Julio Cesar de Oliveira · Backend Engineer</span>
-    <span>Curitiba, Brazil · Available June 2026</span>
+    <span>Curitiba, Brazil </span>
    </footer>
   </div>
  );
